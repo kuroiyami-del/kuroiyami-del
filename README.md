@@ -8,8 +8,9 @@
 
 ### 💡 Mis objetivos:
 - **Contribuir a la comunidad** compartiendo conocimientos y recursos gratuitos.  
-- **Desarrollar habilidades en Inteligencia Artificial** para resolver problemas del mundo real.  
-- **Crear contenido educativo** para ayudar a otros a aprender programación y ciencia de datos.  
+- **Desarrollar habilidades en Inteligencia Artificial y en Ciencia de datos** para resolver problemas del mundo real.  
+
+
 
 
 ### 👨🏻‍💻 &nbsp;About Me
